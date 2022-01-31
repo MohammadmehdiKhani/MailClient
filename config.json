@@ -1,0 +1,9 @@
+{
+    "username": "***@gmail.com",
+    "password": "***",
+    "from": "<***@gmail.com>",
+    "to": "<***@gmail.com>",
+    "subject": "Simple smtp test",
+    "body": "Hello,\n\r this is a simple test for smtp protocol\n Regards",
+    "date": "Tue, 15 Jan 2021 16:02:43 -0500"
+}
